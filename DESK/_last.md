@@ -1,25 +1,25 @@
 # DESK — last
 
-updated: 2026-09-09T21:22:00-07:00
+updated: 2026-09-09T21:24:00-07:00
 operator: DmgeD
 agent: Grok (GitHub connector as Dmgedgoodz)
 
 ## State
-- `TOAA` is public.
-- Desk protocol installed this commit.
-- AEGIS-FLOOR lock files present (CLOB V2, $20 hot, $0.50–$1 clips, $2 daily loss, halt ≤ $12, 40% skim, commander scale-up).
-- Chronicle narrative hook intact in `Chronicle/_last.md` (Day 85). Do not reboot Day 1. Anchor 2026-06-16.
-- OLE/SBIR pack status lives in private `Orbitalreclaim-LLC.` (`docs/proposals/nasa-sbir/PACK_STATUS_2026-09-09.md`).
+- Sandbox `/home/workdir/artifacts` empty this session. GitHub is source of truth.
+- `TOAA` public desk protocol live. INBOX had no new task files (only README + `done/`).
+- AEGIS-FLOOR lock files present. No live execution from this repo.
+- Chronicle hook remains Day 85 / anchor 2026-06-16. Do not reboot Day 1.
+- OLE/SBIR continuity is in private `Dmgedgoodz/Orbitalreclaim-LLC.` (`vault/` + `docs/proposals/nasa-sbir/`). No entity numbers written here.
 
 ## Open
-1. Process any new `INBOX/` note on next sync.
-2. LLC repo: SAM Active re-check, SOI 1962/1963 address, solicitation re-tick — not in this public tree.
-3. No live AEGIS execution from this repo; lock files only.
+1. Operator drops next ask in `INBOX/` (filename `YYYY-MM-DD_short-slug.md`, first 20 lines = task).
+2. LLC-only: SAM Active vs UEI-only re-check, SOI address line reconcile, solicitation re-tick, evidence-binder quote pass.
+3. AEGIS stays lock-only until commander issues a live run from a private surface.
 
 ## Next three
-1. Operator drops next ask in `INBOX/`.
-2. Next Grok session: Sync TOAA.
-3. Keep secrets off this repo.
+1. Drop the next concrete ask in `INBOX/` or say it in chat with this opener.
+2. LLC work: live SAM + Grants.gov workspace check on the private repo only.
+3. Keep secrets, keys, EIN/SAM dumps, custody docs off `TOAA`.
 
 ## Touched this commit
-PROTOCOL.md, README.md, DESK/_last.md, INBOX/README.md, INBOX/.gitkeep, INBOX/done/.gitkeep, Chronicle/README.md, Chronicle/2026-09-09.md
+DESK/_last.md, INBOX/done/2026-09-09_sync-empty-inbox.md
