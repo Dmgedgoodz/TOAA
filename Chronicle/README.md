@@ -1,9 +1,9 @@
 # Chronicle
 
-Living epic persistence for the daily Chronicler automation.
+Living epic persistence. Separate from operations.
 
-- `_last.md` — single source of truth for the previous day's closing hook. Overwrite in place each run. Do not append forever.
-- Optional dated entries may live beside it as `Day-NNN.md` if the operator wants an archive.
+- `_last.md` — previous day's closing hook. Overwrite after a Chronicle run only.
+- Ops brief is `DESK/_last.md`, not this file.
+- Do not reboot Day 1. Anchor date 2026-06-16.
 
-Repo: `Dmgedgoodz/TOAA`  
-Path: `Chronicle/_last.md`
+Repo: `Dmgedgoodz/TOAA`

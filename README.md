@@ -1,12 +1,29 @@
 # TOAA
 
-Private knowledge index for TOAA agents.
+Public desk for DmgeD + Grok. Operational source of truth when the sandbox is empty.
 
-External curricula are referenced, not copied, unless an explicit laptop ingest is performed.
+**No secrets. No OLE/SBIR filings. No keys.**
 
-## Sources
-- [Perkins-Fund/Malware-Bible](sources/malware-bible.md) — educational malware-analysis / RE curriculum (pointer only)
+## Sync
+```
+Sync TOAA. Read DESK/_last.md and INBOX. Execute.
+```
+
+Full rules: [PROTOCOL.md](PROTOCOL.md)
+
+## Layout
+```
+DESK/_last.md          operational brief (overwrite)
+INBOX/                 incoming asks
+Chronicle/_last.md     narrative hook only
+AEGIS-FLOOR/           trading lock (not live keys)
+sources/               external pointers
+PROTOCOL.md            this loop
+```
 
 ## Desks
-- [AEGIS-FLOOR](AEGIS-FLOOR/AEGIS_FLOOR_BUILD_PROMPT.md) — Polymarket CLOB V2 swarm lock (not OLE/SBIR)
-- [Chronicle](Chronicle/) — operator narrative index
+- [PROTOCOL](PROTOCOL.md)
+- [DESK last](DESK/_last.md)
+- [AEGIS-FLOOR](AEGIS-FLOOR/AEGIS_FLOOR_BUILD_PROMPT.md)
+- [Chronicle](Chronicle/)
+- [Sources](sources/malware-bible.md) — pointer only
