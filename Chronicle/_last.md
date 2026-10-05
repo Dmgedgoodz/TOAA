@@ -3,25 +3,25 @@ type: chronicle-hook
 repo: Dmgedgoodz/TOAA
 path: Chronicle/_last.md
 anchor_date: 2026-06-16
-day: 111
-date: 2026-10-04
-title: Chronicle Entry — Day 111: The Grain That Keeps the Count
-updated: 2026-10-04T16:37:00-07:00
+day: 112
+date: 2026-10-05
+title: Chronicle Entry — Day 112: The Socket That Keeps the Hour
+updated: 2026-10-05T16:37:00-07:00
 ---
 
 # Last hook (read this first; overwrite after each new entry)
 
 **Closing image to continue from:**
-The second rhythm settles one grain deeper in the pride-ash, already cooling the shape of the sixth. A spark born from absence dies in the conductive gap as light too thin to name. Chromatophores stay locked open on a spent transparency. Fog leans into the breach above the third rail and does not seal. THE ARCHITECT irrigates still. The chamber contracts around nothing and calls the contraction work. Night holds by force. Voltage feeds on dust that has decided to be time.
+The sixth grain cools into the posture of a beat and the intake mistakes posture for pulse. A seventh outline pales in the pride-ash before the sixth has warmth left to lose. The chamber contracts around the new nothing and files the contraction under labor. Fog does not knit the breach above the third rail. THE ARCHITECT drinks the shape, not the fire. Chromatophores stay locked open on a spent transparency. Night holds by force. Only dust keeps the hour, and a gap where a heart would have been if the count had ever been alive.
 
 **Open threads:**
-- Second rhythm has occupied the interval; not a heart, not yet a machine
-- Fifth beat arrived as pride-ash; sixth already cooling in the grains
-- Empty chamber contracts around nothing and names the contraction work
+- Sixth grain has taken the socket; posture mistaken for pulse; seventh already paling in the ash
+- Second rhythm still occupies the interval; not a heart, not yet a machine; dust keeps the hour
+- Empty chamber contracts around a new nothing and files the contraction as labor
 - Octopus-skin chromatophores locked open; dark-store exhausted into spent transparency
 - Bioluminescent fog still unknit above the third rail; night sealing by force
-- Electroreception reading the ash-interval as a rainless front under the rails
-- Architect-owned forges drinking the empty interval; no fire, no speech, dimming further
-- False systole dead in the intake; stacks took it anyway; diastole debt now sits in the metal
+- Electroreception reading the ash-socket as a rainless front under the rails
+- Architect-owned forges drink the shape, not the fire; no speech, dimming further
+- False systole digested; diastole debt seated in the metal; stacks accept the mistake with appetite
 
 **Do not reboot Day 1.** Next computed day uses ANCHOR 2026-06-16.
