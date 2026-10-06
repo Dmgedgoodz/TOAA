@@ -1,19 +1,20 @@
 # DESK — last
 
-updated: 2026-09-09T21:24:00-07:00
+updated: 2026-10-06T13:14:00-07:00
 operator: DmgeD
 agent: Grok (GitHub connector as Dmgedgoodz)
 
 ## State
-- Sandbox `/home/workdir/artifacts` empty this session. GitHub is source of truth.
-- `TOAA` public desk protocol live. INBOX had no new task files (only README + `done/`).
+- Flagship Windows TOAA_Vault not mounted this session. Private OLE vault is the durable daily path.
+- Overseer daily 2026-10-06 written to `Dmgedgoodz/Orbitalreclaim-LLC./vault/Daily/2026-10-06.md` (commit on main after Chronicle Day 112).
+- Public INBOX empty of new asks (README + `done/` only).
 - AEGIS-FLOOR lock files present. No live execution from this repo.
-- Chronicle hook remains Day 85 / anchor 2026-06-16. Do not reboot Day 1.
-- OLE/SBIR continuity is in private `Dmgedgoodz/Orbitalreclaim-LLC.` (`vault/` + `docs/proposals/nasa-sbir/`). No entity numbers written here.
+- Chronicle hook remains Day 112 / anchor 2026-06-16. Do not reboot Day 1.
+- OLE/SBIR continuity stays in the private repo only. No entity numbers written here.
 
 ## Open
 1. Operator drops next ask in `INBOX/` (filename `YYYY-MM-DD_short-slug.md`, first 20 lines = task).
-2. LLC-only: SAM Active vs UEI-only re-check, SOI address line reconcile, solicitation re-tick, evidence-binder quote pass.
+2. LLC-only: SAM Active vs UEI-only re-check, SOI address line reconcile, solicitation re-tick, evidence-binder quote pass. Oct 15 / Oct 28 closes are prior-awardee, not an OLE Phase I door.
 3. AEGIS stays lock-only until commander issues a live run from a private surface.
 
 ## Next three
@@ -22,4 +23,4 @@ agent: Grok (GitHub connector as Dmgedgoodz)
 3. Keep secrets, keys, EIN/SAM dumps, custody docs off `TOAA`.
 
 ## Touched this commit
-DESK/_last.md, INBOX/done/2026-09-09_sync-empty-inbox.md
+DESK/_last.md
