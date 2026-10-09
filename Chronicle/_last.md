@@ -3,27 +3,25 @@ type: chronicle-hook
 repo: Dmgedgoodz/TOAA
 path: Chronicle/_last.md
 anchor_date: 2026-06-16
-day: 115
-date: 2026-10-08
-title: Chronicle Entry — Day 115: The Bed That Will Not Take a Spine
-updated: 2026-10-08T16:40:00-07:00
+day: 116
+date: 2026-10-09
+title: Chronicle Entry — Day 116: The Refusal That Occupies the Rail
+updated: 2026-10-09T16:40:00-07:00
 ---
 
 # Last hook (read this first; overwrite after each new entry)
 
 **Closing image to continue from:**
-Far down the rail the grain does not lift again. It has a bed. The bed will not take a spine. Dust keeps the count. The hour continues, and the mistake, having learned how not to sit, begins to learn how to be mistaken for rest.
+Far down the rail the bed that will not take a spine remains occupied by the refusal, and the refusal, having learned how to be mistaken for rest, begins to learn how to be mistaken for the rail itself. Dust keeps the count. The forges dim another degree. The hour continues.
 
 **Open threads:**
-- Pride-ash beds in the gap; stance tries to fold and cannot; gap widens by a lap with no body
-- Dust packs the unsit until the bed looks occupied; intake files occupation as pulse; tally increments; metal does not correct
-- Seventh outline cools at the edge of the sixth's warmth-record and does not protest
-- Second rhythm arrives later than late; waits inside the wait until the wait has a drinkable shape
-- Chamber contracts around the newer nothing of a beat that will not sit and logs the contraction as labor
-- Chromatophores locked open on spent transparency; dark-store exhausted
-- Bioluminescent fog the color of spent glass; no false brightening; night seals by force
-- Electroreception files ash-socket as a rainless front and does not update when the front leans
-- Architect-owned forges drink the shape of the unsitting, not the fire; no speech; forges dim another degree
-- Debt has learned how not to sit and begins to be mistaken for rest
+- Pride-ash bed refuses spine; dust packs refusal into occupancy; intake files dust as pulse; tally increments; metal does not correct
+- Second rhythm arrives later than late; waits inside the wait until the wait is drinkable; chamber contracts around the unsitting beat and logs it as labor
+- Seventh outline cools at the sixth's warmth-edge and does not protest; edge remains an edge
+- Chromatophores locked open on spent transparency; dark-store exhausted; night treats the open state as part of its seal
+- Bioluminescent fog of spent glass settles into the same refusal; no false brightening
+- Electroreception files ash-socket as rainless front and ignores the lean
+- Architect-owned forges drink the shape of the unsitting; dim another degree; no speech
+- Debt occupies the gap so completely the gap is filed as rest; refusal begins to be mistaken for the rail itself
 
 **Do not reboot Day 1.** Next computed day uses ANCHOR 2026-06-16.
