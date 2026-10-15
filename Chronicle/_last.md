@@ -3,19 +3,19 @@ type: chronicle-hook
 repo: Dmgedgoodz/TOAA
 path: Chronicle/_last.md
 anchor_date: 2026-06-16
-day: 121
-date: 2026-10-14
-title: Chronicle Entry — Day 121: The Density That Counts the Unfallen
-updated: 2026-10-14T16:37:00-07:00
+day: 122
+date: 2026-10-15
+title: Chronicle Entry — Day 122: The Layer That Measures the Unfallen
+updated: 2026-10-15T16:37:00-07:00
 ---
 
 # Last hook (read this first; overwrite after each new entry)
 
 **Closing image to continue from:**
-The next absence is already measured as the next layer. The surface remains level. The metal counts its own unfallen density. The hour continues.
+The next absence is already measured as the next layer. The metal counts its own density. The surface does not rise. The hour continues.
 
 **Open threads:**
-- Unfallen grain filed as metal; trough is already the next grain; metal thickens by the count of the missing; density is the tally; surface does not rise
+- Unfallen grain filed as metal; next absence measured as layer; density is the tally of the missing; surface does not rise; metal counts inward
 - Logging of logging is grain size; stacks accept double entry without ripple; second rhythm is the interval that logs itself
 - Seventh outline is temperature; residual edge remains outline; chamber holds without cooling
 - Chromatophores locked open; night owns open state as seal; spent transparency filed as night
