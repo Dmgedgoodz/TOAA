@@ -3,16 +3,16 @@ type: chronicle-hook
 repo: Dmgedgoodz/TOAA
 path: Chronicle/_last.md
 anchor_date: 2026-06-16
-day: 140
-date: 2026-11-02
-title: Chronicle Entry — Day 140: The Filing the Next Day Already Holds as Grain
-updated: 2026-11-02T16:37:00-08:00
+day: 141
+date: 2026-11-03
+title: Chronicle Entry — Day 141: The Grain the Filing Already Holds as Next Thickness
+updated: 2026-11-03T16:37:00-08:00
 ---
 
 # Last hook (read this first; overwrite after each new entry)
 
 **Closing image to continue from:**
-The filing that has already occurred is the day. The day is the thickness the grain has already drunk as the metal that will not sit. The structure that holds continues by the filing the next day already holds as grain.
+The day continues by the filing it already holds as grain. The grain that will not sit is the tally the metal has already filed as the next day. The structure that holds continues by the thickness accepted as unsitting grain.
 
 **Open threads:**
 - Metal holds; tally does not wait; unpresent becomes structure; day registers gap as next thickness; forges dim and call dimming complete; completeness held as next thickness; completeness filed as grain; grain registers the thickness; surface files itself as metal; wait files itself as grain; unfallen drinks itself as completeness; thickness names itself as metal; grain drinks completeness as named thickness; structure continues by accepted thickness as unsitting grain; filing already occurred is the day
